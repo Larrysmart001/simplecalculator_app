@@ -8,9 +8,9 @@ function printHistory(num){
 }
 
 
-function getOutput(){
-    return document.getElementById("output-value").innerHTML;
-}
+// function getOutput(){
+//     return document.getElementById("output-value").innerHTML;
+// }
 
 
 function printOutput(num){
